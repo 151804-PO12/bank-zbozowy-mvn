@@ -1,4 +1,3 @@
 # bank-zbozowy-mvn
 
-![example workflow](https://github.com/<user>/<repo>/actions/workflows/<file>
-/badge.svg)
+![TEST](https://github.com/151804-PO12/bank-zbozowy-mvn/actions/workflows/ci.yml/badge.svg)
